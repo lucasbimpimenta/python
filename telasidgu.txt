@@ -1,0 +1,99 @@
+                SIGDU DEMA,M MANUTENCAO DE DEMANDA                    01/08/2018
+ C076633                     CONVOCACAO                               EGHPO576  
+ ------------------------------------------------------------------------------ 
+  Demanda/OS criada:                     /            01                         
+                                                                                
+                                                                                 
+  Atividade: B 438                            Unidade debito: 3816               
+ Pz execucao: 04 (em dias)                   Vr servicos previsto: 884,00______ 
+  Vr deslocamento previsto: 35,00_______                                         
+ Tp deslocamento previsto: 1 (1. Terrestre  2. Aereo  3. Fluvial)               
+ Nome contato: ANDRE                                                            
+ Telefone contato:  (37)99994-3642                                              
+ Local retirada documentacao: CASA LOTERICA MINEIRINHO RUA BOM DESPACHO 21 LOJA 
+LOJA 01 CENTRO MARTINHO CAMPOS 37 3524-1173                                     
+______________________________________________________________________          
+ Observação: A matrícula do imóvel vinculado à OS 7371.3816.000276663/2018.01.01
+__________________________________________________                              
+________________________________________________________________________________
+___                                                                             
+                                                                                
+------------------------------------------------------------------------------  
+Parm :                                                            Dest:         
+                                                                                
+PF   : ENT 2-Conf 3-Ret 5-EMail/Imp 6-Des 9-Esc Dir 12-Fim                      
+
+                SIGDU DEMA,M MANUTENCAO DE DEMANDA                    01/08/2018
+ C076633                     ESCOLHA DIRIGIDA EMPRESA                 EGHPO577  
+ ------------------------------------------------------------------------------ 
+                                                                    Pagina: 01  
+                                                                                
+    Empresa : 05567838 / 0001 - 85                                              
+                                                                                
+         19528671 / 0001 - 58 A.R. ENGENHARIA LTDA-ME                           
+         16985092 / 0001 - 46 ALCA ENGENHARIA LTDA - ME                         
+         13353531 / 0001 -    ASSIS & SILVA ENGENHARIA E CONSULTORIA L          
+         01511753 / 0001 - 24 CASA PRONTA CONSTRUCOES LTDA EPP                  
+         04356268 / 0001 - 11 DOMUS CONSTRUCOES LTDA                            
+                                                                                
+             Municipio : 04050 + MARTINHO CAMPOS                 UF : MG        
+                                                                                
+                                                                                
+                                                                                
+  Justificativa : A matrícula do imóvel vinculado à OS está errada.             
+7371.3816.000276663/2018.01.01.01                                               
+__________________                                                              
+------------------------------------------------------------------------------  
+Parm :                                                            Dest:         
+                                                                                
+PF   : ENT 3-Ret 7-Ant 8-Prox 11-Sel 12-Fim                                     
+
+                SIGDU DEMA,M MANUTENCAO DE DEMANDA                    01/08/2018
+ C076633                     CONVOCACAO                               EGHPO576  
+ ------------------------------------------------------------------------------ 
+  Demanda/OS criada:                     /            01                         
+ CNPJ : 05567838/0001-85 - SOLUCOES CONS P IMP EXPORTACAO LTDA                  
+                                                                                 
+  Atividade: B 438                            Unidade debito: 3816               
+ Pz execucao: 04 (em dias)                   Vr servicos previsto: 884,00______ 
+  Vr deslocamento previsto: 35,00_______                                         
+ Tp deslocamento previsto: 1 (1. Terrestre  2. Aereo  3. Fluvial)               
+ Nome contato: ANDRE_______________________________________                     
+ Telefone contato: _(37)99994-3642____                                          
+ Local retirada documentacao: CASA LOTERICA MINEIRINHO RUA BOM DESPACHO 21 LOJA 
+LOJA 01 CENTRO MARTINHO CAMPOS 37 3524-1173_____________________________________
+______________________________________________________________________          
+ Observação: A MATRíCULA DO IMóVEL VINCULADO à OS 7371.3816.000276663/2018.01.01
+________________________________________________________________________________
+________________________________________________________________________________
+___                                                                             
+                                                                                
+------------------------------------------------------------------------------  
+Parm :                                                            Dest:         
+                                                                                
+PF   : ENT 2-Conf 3-Ret 5-EMail/Imp 6-Des 9-Esc Dir 12-Fim                      
+
+                SIGDU DEMA,M MANUTENCAO DE DEMANDA                    01/08/2018
+ C076633                     CONVOCACAO                               EGHPO576  
+ ------------------------------------------------------------------------------ 
+  Demanda/OS criada: 7371 7371 000290218 / 2018 01 01 01                         
+ Empresa confirmada:  05567838/0001-85 - SOLUCOES CONS P IMP EXPORTACAO LTDA    
+                                                                                 
+  Atividade: B 438                            Unidade debito: 3816               
+ Pz execucao: 04 (em dias)                   Vr servicos previsto: 884,00______ 
+  Vr deslocamento previsto: 35,00_______                                         
+ Tp deslocamento previsto: 1 (1. Terrestre  2. Aereo  3. Fluvial)               
+ Nome contato: ANDRE_______________________________________                     
+ Telefone contato: _(37)99994-3642____                                          
+ Local retirada documentacao: CASA LOTERICA MINEIRINHO RUA BOM DESPACHO 21 LOJA 
+LOJA 01 CENTRO MARTINHO CAMPOS 37 3524-1173_____________________________________
+______________________________________________________________________          
+ Observação: A MATRíCULA DO IMóVEL VINCULADO à OS 7371.3816.000276663/2018.01.01
+________________________________________________________________________________
+________________________________________________________________________________
+___                                                                             
+                                                                                
+------------------------------------------------------------------------------  
+Parm :                                                            Dest:         
+E-mail enviado com sucesso.                                                     
+PF   : ENT 2-Conf 3-Ret 5-EMail/Imp 6-Des 9-Esc Dir 12-Fim                      

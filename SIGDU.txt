@@ -1,0 +1,92 @@
+22/73 - DEMA,M - Enter
+02/71 - EGHPO571 - (Chk)
+02/23 - DEMA,M - (Chk)
+F10
+16/26 - 7371 - Enter
+23/01 - TECLE <ENTER> PARA PROSSEGUIR COM A DEMANDA - (Chk)
+Enter
+
+02/71 - EGHPO571 - (Chk)
+04/02 - Deseja fazer demanda para atividade do grupo G - (Chk)
+04/51 - S - Enter [Ao errar 23/01 - "O CAMPO INFORMADO E INVALIDO."]
+05/02 - Atividade para o grupo G - (Chk)
+05/30 - G XXX -Enter - [Ao errar 23/01 - "ATIVIDADE ENGENHARIA NAO ENCONTRADA."]
+08/15 - A XXX - XXX - XXX - XXX - Enter
+13/02 - O servico sera executado por terceiro ou empregado Caixa - (chk)
+13/61 - T - Enter [Ao errar 23/01 - "O CAMPO INFORMADO E INVALIDO."]
+15/15 - 1 ou 2 [Varia conforme OS original] - Enter
+Verificar as valores das posicoes - Enter
+
+Para tipo 1
+02/72 - EGHPO573 - (chk)
+02/30 - IMOVEL - (Chk)
+23/01 - INFORME O SISTEMA E TECLE <ENTER> - (Chk)
+04/17 - SIAPF - (Chk)
+07/3 - Comarca - (Chk)
+04/12 - 3 - Enter
+04/63 - S/N______________ - (Chk)
+23/01 - INFORME A IDENTIFICACAO NO CARTORIO DO IMOVEL E TECLE <ENTER> - (chk)
+06/22 - (MATRICULA SIOPI) - Max 14 - TAB
+06/70 - (OFICIO SIOPI) - Max 2 - TAB
+07/22 - (COMARCA SIOPI) - Max 5 - TAB
+07/70 - (UF COMARCA SIOPI) - Max 2 - ENTER
+11/09 - N�o vazio (5 chars) - (Chk)
+11/27 - N�o vazio (2 chars) - (Chk)
+11/45 - N�o vazio (5 chars) - (Chk)
+14/17 - N�o vazio (15 chars) - (Chk)
+14/40 - N�o vazio (40 chars) - (Chk)
+15/17 - N�o vazio (20 chars) - (Chk)
+19/40 - N�o vazio (40 chars) - (Chk)
+20/54 - TECLE <ENT> P/ CONTINUAR - (Chk)
+Verificar as valores das posicoes - Enter
+23/01 - INFORME O CEP DO ENDERECO E TECLE <ENTER> - (Chk)
+
+
+Para tipo 2
+02/72 - EGHPO574 - (chk)
+02/30 - EMPREENDIMENTO (Chk)
+23/01 - INFORME OS DADOS NECESSARIOS E PRESSIONE <ENTER>. (Chk)
+06/25 - SIAPF - (Chk)
+07/25 - SIACI/SIINC - (Chk)
+08/25 - OUTROS - (Chk)
+06/20 - 3 - Enter
+06/57 - S/N______________ - (Chk)
+12/09 - (CEP SIOPI) - Enter
+12/27 - N�o vazio (2 chars) - (Chk)
+12/45 - N�o vazio (5 chars) - (Chk)
+12/69 - N�o vazio (2 chars) - (Chk)
+13/33 - N�o vazio (15 chars) - (Chk)
+Verificar as valores das posicoes - Enter
+15/17 - (Tipo Logradouro SIOPI) - 15 max - TAB
+15/17 - (Logradouro SIOPI) - 40 max - TAB
+15/17 - (Numero SIOPI) - 20 max - TAB
+15/17 - (Tipo Lote SIOPI) - 10 max - TAB
+15/17 - (Numero Lote SIOPI) - 6 max - TAB
+15/17 - (Bairro SIOPI) - 40 max - Enter
+
+02/71 - EGHPO576 - (Chk)
+02/30 - CONVOCACAO- (Chk)
+04/02 - Demanda/OS criada: - (Chk)
+07/13 - (Tipo Os Original no formato A XXX) - (Chk)
+07/19 - (Tipo Nova Os no formato AXXX) - (Chk)
+08/15 - (Prazo 04) - (Chk)
+07/62 - (Unidade da Os original) - TAB
+08/68 - (Valor a ser pago) - TAB
+09/28 - (Valor deslocamento, ver tabela) - TAB
+10/28 - 1 - TAB
+11/16 - (Nome SIOPI) 44 max - TAB
+12/20 - (Tel SIOPI) 20 max - TAB
+13/31 - (Local SIOPI) 199 max - TAB
+16/14 - (Obs - Texto demanda + os original) 230 max - TAB
+
+F9
+
+
+
+
+
+
+Observa��o: Nova Analise para verificacao de correcao de pendencias verificadas
+OS original: 7371.0135.000157458/2018.01.01.01                                 
+
+Renata

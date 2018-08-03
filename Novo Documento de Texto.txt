@@ -1,0 +1,1 @@
+pyinstaller -F --paths "%DLL_PATH%" --add-binary "O:\bin\python\ws3270.exe;.\ws3270.exe" --hidden-import ctypes --clean abrir_demanda_tipo_g.py

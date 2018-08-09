@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from py3270 import Emulator
+import py3270
 import sys
 import argparse
 import datetime
@@ -98,7 +98,7 @@ if cursor.rowcount == 1:
 
         ERROS_CHK = list()
 
-        em = Emulator(visible=False)
+        em = py3270.Emulator(visible=False)
 
         atualizaReg(conn,nu_id, 'DE_PROCESSAMENTO', '{} - Conectando ao Rede Caixa'.format(datetime.datetime.now()),1)
         em.connect('L:ibmbr10.coredf.caixa:2301')
